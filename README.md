@@ -19,7 +19,7 @@ This is a simple real-time **Face Anonymizer** that uses OpenCV and MediaPipe to
 
 ```bash
 # Clone the repository
-git clone https://github.com/medhabibhafiene/face-anonymizer.git
+git clone [https://github.com/medhabibhafiene/face-anonymizer.git](https://github.com/MedHabibHafiene/face-anonymizer)
 cd face-anonymizer
 
 # Create a virtual environment (optional but recommended)
